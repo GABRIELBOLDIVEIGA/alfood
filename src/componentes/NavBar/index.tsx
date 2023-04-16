@@ -10,6 +10,9 @@ const NavBar = () => {
       <li>
         <Link to="/restaurantes">Restaurantes</Link>
       </li>
+      <li>
+        <Link to="/admin">Area ADM</Link>
+      </li>
     </ul>
   </nav>)
 }
